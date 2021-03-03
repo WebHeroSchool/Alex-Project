@@ -11,8 +11,7 @@
 * {
     margin: 0;
     padding: 0;
-    border: dashed 2px red;
-    }
+        }
 .header {
     display: flex;
     justify-content: space-between;
