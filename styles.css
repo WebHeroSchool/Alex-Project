@@ -18,8 +18,8 @@
     margin-bottom: 100px;
 }
 .logo {
-    padding: 31px 0;
-    padding-left: 44px;
+    padding: 0px 0 0 44px;
+    margin: 41px 0px 0px 8px;
     position: relative;
     font: bold 24px/31px Pt_serif, Arial, Helvetica, sans-serif; 
 }
@@ -44,6 +44,7 @@
 .menu {
     display: flex;
     align-items: center;
+    margin: 14px 14px -27px 0px;
 }
 .menu__item {
     position: relative;
@@ -78,11 +79,12 @@
     background: top right no-repeat url(./img/mainImg.svg);
 }
 .main__title {
-    margin: 106px 0 40px -2px;
+    margin: 170px 0 40px 1px;
+    padding: 75px 0px 0px 0px;
     font: bold 71.2px/87.45px Pt_serif, arial, helvetica, sans-serif;
 }
 .main__subtitle {
-    margin: -10px 0 41px -4px;
+    margin: -5px 0 43px 3px;
     font: 22px/27.78px Roboto, arial,helvetica,sans-serif;
     width: 455px;
 }
